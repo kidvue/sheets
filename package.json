@@ -15,11 +15,13 @@
     "@tauri-apps/plugin-shell": ">=2.0.0-beta.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.4",
-    "typescript": "^5.0.2",
-    "vite": "^5.0.0",
-    "vue-tsc": "^1.8.5",
     "@tauri-apps/cli": ">=2.0.0-beta.0",
-    "internal-ip": "^7.0.0"
+    "@vitejs/plugin-vue": "^5.0.4",
+    "exceljs": "^4.4.0",
+    "internal-ip": "^7.0.0",
+    "typescript": "^5.0.2",
+    "unocss": "^0.60.3",
+    "vite": "^5.0.0",
+    "vue-tsc": "^1.8.5"
   }
 }
